@@ -1,0 +1,2 @@
+# awscli
+Docker image awscli
